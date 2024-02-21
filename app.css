@@ -1,0 +1,55 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    overflow-x: hidden;
+}
+.wrapper{
+    width: 100vw;
+    height: 200vh;
+    background-color: #AB7F4E;
+}
+
+.spacer {
+    width: 100vw;
+    height: 3vh;
+}
+
+.header {
+    width: 80vw;
+    margin: 0 auto;
+    height: 10vh;
+    background-color: rgb(41,33,33);
+    border-radius: 15px;
+}
+
+.logo {
+    width: 20vw;
+    height: 8vh;
+    margin: 1vh 1vw;
+    background-color: aliceblue;
+    border-radius: 15px;
+    float: left;
+}
+.nav{
+    width: 50vw;
+    height: 8vh;
+    background-color: aliceblue;
+    margin: 1vh 1vw;
+    float: right;
+    border-radius: 15px;
+}
+
+.cta-1col {width: 80vw;height: 40vh;margin: 0 auto;}
+.cta-1col1 {width: 80vw;height: 40vh;background-color: #FFB835; float: left; border-radius: 15px;}
+.cta-2col {width: 80vw;height: 40vh;margin: 0 auto;}
+.cta-2col1 {width: 25vw;height: 40vh;float: left;background-color: #FFB835; border-radius: 15px;}
+.cta-2col2 {width: 52vw;height: 40vh;background-color: #33673B; float: right; margin: 0; border-radius: 15px; color: white;}
+.cta-3col {width: 80vw;height: 40vh;margin: 0 auto;}
+.cta-col1 {width: 25vw;height: 40vh; float: left; border-radius: 15px;}
+.cta-col2 {width: 25vw;height: 40vh; float: left; margin: 0 2vw; border-radius: 15px;}
+.cta-col3 {width: 25vw;height: 40vh; float: left; border-radius: 15px;}
+.cta-c2-im1{width: 12vw; height: 18vh;border-radius: 15px;float: left;}
+.cta-c2-im2{width: 12vw; height: 18vh;border-radius: 15px;float: right;}
+.cta-c2-im3{width: 12vw; height: 18vh; background-color: aliceblue;border-radius: 15px;float: left;margin-top: 3vh;}
+.cta-c2-im4{width: 12vw; height: 18vh; background-color: aliceblue;border-radius: 15px;float: right;margin-top: 3vh;} 
